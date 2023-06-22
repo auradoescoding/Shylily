@@ -15,12 +15,12 @@
   /* --- User variables --- */
 
   /* Jumping GIF */
-  --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
+  --jumping-gif: url("https://i.redd.it/yhnuy6roajt91.gif");
 
   /* Background (if you want an image replace it by : 
 
 --background-tertiary-alt: url("image-link"); without that => */
-  --background-tertiary-alt: #ffc7d4;
+  --background-tertiary-alt: url("https://pbs.twimg.com/ext_tw_video_thumb/1494362337607704590/pu/img/OKJFzlrRVUS4wfQb.jpg:large");
 
   /* Border-radius for the whole theme */
   --border-radius: 20px;
