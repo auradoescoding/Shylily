@@ -27,18 +27,19 @@
 }
 
 .theme-dark {
-  /* Text */
-  --text-normal: #f8e1e5;
-  --header-primary: #f8e1e5;
-  --interactive-normal: #fab1bd;
-  --channels-default: #f8e1e5;
-
-  --text-muted: #e2c1c7;
-  --interactive-muted: #ad8c91;
-
-  --header-secondary: #e2c1c7;
-  --interactive-hover: #e2c1c7;
-  --interactive-active: #e2c1c7;
+     /* Text */
+     --text-normal: #abceff;
+     --header-primary: #5994e7;
+     --interactive-normal: #abceff;
+     --channels-default: #abceff;
+ 
+     --text-muted: #8eaeda;
+     --interactive-muted: #7a97bf;
+ 
+     --header-secondary: #abceff;
+     --interactive-hover: #d6e7ff;
+     --interactive-active: #abceff;
+ 
 
  /* Background color */
  --background-primary: #2e425e;
