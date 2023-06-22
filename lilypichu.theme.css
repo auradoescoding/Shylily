@@ -1,3 +1,4 @@
+
 /**
 * @name LilyPichu
 * @author Nyria#3863
@@ -25,7 +26,8 @@
   /* Border-radius for the whole theme */
   --border-radius: 20px;
 
-  --blur: blur(3px);
+  --bg-blur: 15px;
+  
 }
 
 .theme-dark {
